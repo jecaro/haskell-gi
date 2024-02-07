@@ -54,7 +54,7 @@ library
 
   ghc-options: -Wall -Wno-redundant-constraints -fwarn-incomplete-patterns -Wcompat
 
-  build-tool-depends:  hsc2hs:hsc2hs
+  -- build-tool-depends:  hsc2hs:hsc2hs
   cc-options:          -fPIC
   default-language:    Haskell2010
   default-extensions:  CPP, ForeignFunctionInterface, DoAndIfThenElse, MonoLocalBinds

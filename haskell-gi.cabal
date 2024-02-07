@@ -53,7 +53,7 @@ Library
   ghc-options:         -Wall -fwarn-incomplete-patterns -fno-warn-name-shadowing -Wcompat
 
   c-sources:           lib/c/enumStorage.c
-  build-tool-depends:  hsc2hs:hsc2hs
+  -- build-tool-depends:  hsc2hs:hsc2hs
 
   hs-source-dirs:      lib
   exposed-modules:     Data.GI.GIR.Alias,
