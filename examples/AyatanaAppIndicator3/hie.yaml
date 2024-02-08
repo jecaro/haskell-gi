@@ -1,0 +1,4 @@
+cradle:
+  cabal:
+    - path: "./simple-client.hs"
+      component: "simple-client:exe:simple-client"

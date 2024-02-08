@@ -1,6 +1,7 @@
 packages: base/haskell-gi-base.cabal
           haskell-gi.cabal
           -- test/haskell-gi-test.cabal
+          examples/AyatanaAppIndicator3/simple-client.cabal
           -- examples/introductory/introductory-examples.cabal
           -- examples/advanced/haskell-gi-examples.cabal
           -- examples/internationalization/haskell-gi-i18n.cabal
